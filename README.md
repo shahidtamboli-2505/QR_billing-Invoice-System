@@ -10,16 +10,16 @@ A full-stack, contactless QR-code-based digital menu and ordering system designe
 
 ### Customer View
 <p float="left">
-  <img src="https://via.placeholder.com/250x500.png?text=Home/Login+Screen" width="24%" />
-  <img src="https://via.placeholder.com/250x500.png?text=Digital+Menu" width="24%" />
-  <img src="https://via.placeholder.com/250x500.png?text=Cart" width="24%" />
-  <img src="https://via.placeholder.com/250x500.png?text=Checkout" width="24%" />
+  <img src="hC:\dessert-bowl-qr-app\docs\login_page.png" width="24%" />
+  <img src="C:\dessert-bowl-qr-app\docs\Tables.png" width="24%" />
+  <img src="C:\dessert-bowl-qr-app\docs\Menu.png" width="24%" />
+  <img src="C:\dessert-bowl-qr-app\docs\Proccess.png" width="24%" />
 </p>
 
 ### Admin View
 <p float="left">
-  <img src="https://via.placeholder.com/400x250.png?text=Live+Dashboard" width="48%" />
-  <img src="https://via.placeholder.com/400x250.png?text=Menu+Management" width="48%" />
+  <img src="C:\dessert-bowl-qr-app\docs\admin_page.png" width="48%" />
+  <img src="C:\dessert-bowl-qr-app\docs\admin_orders.png" width="48%" />
 </p>
 
 ---
