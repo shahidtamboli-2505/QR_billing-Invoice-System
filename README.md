@@ -6,7 +6,6 @@ A full-stack, contactless QR-code-based digital menu and ordering system designe
 
 ## 📸 Screenshots
 
-*(Replace the placeholder links below with your actual screenshot paths once you upload them to a `docs` or `assets` folder in your repo)*
 
 ### Customer View
 <p float="left">
