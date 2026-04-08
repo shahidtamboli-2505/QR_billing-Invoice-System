@@ -11,7 +11,7 @@ A full-stack, contactless QR-code-based digital menu and ordering system designe
 ### Customer View
 <p float="left">
   <img src="docs/login_page.png" width="24%" />
-  <img src="C:\dessert-bowl-qr-app\docs\Tables.png" width="24%" />
+  <img src="docs/Tables.png" width="24%" />
   <img src="C:\dessert-bowl-qr-app\docs\Menu.png" width="24%" />
   <img src="C:\dessert-bowl-qr-app\docs\Proccess.png" width="24%" />
 </p>
